@@ -2,7 +2,8 @@
 
 ### Desenvolvedor em formação na FIAP | Founder Madu Certificados Digitais LTDA 
 
-Sou um profissional com sólida bagagem em gestão de negócios e operações, atualmente em transição para a área de desenvolvimento de software. Como empreendedor da **Madu Certificados Digitais**, utilizo a tecnologia para otimizar processos financeiros e de certificação digital, unindo visão estratégica à execução técnica.
+Sou um profissional com sólida bagagem em gestão de negócios e operações, atualmente em transição para a área de desenvolvimento de software.
+Como empreendedor da **Madu Certificados Digitais**, utilizo a tecnologia para otimizar processos financeiros, unindo visão estratégica à execução técnica.
 
 ---
 
