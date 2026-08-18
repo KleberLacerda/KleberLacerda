@@ -1,6 +1,6 @@
 ### <Hello World!> 
 
-- 🔭 **Atualmente:** Sou empresário e estou mirgando para área tech back-end.
+- 🔭 **Atualmente:** Sou empreendedor e estou migrando para área tech back-end.
 - 🌱 **Estudos:** Cursando ADS na FIAP, com foco total no ecossistema back-end e suas ferramentas.
 - ⚡ **Curiosidades:** Pratico Jiu-Jitsu e curto viajar para conhecer novos paises e culturais. 
 - 😄 **Pronomes:** Ele/Dele
